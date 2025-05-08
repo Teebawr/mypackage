@@ -9,8 +9,7 @@ license = {file = "LICENSE.txt"}
 description = "My first package"
 
 dependencies = [
-    "httpx",
-    "gitgethub>4.0.0",
+  "numpy"
 ]
 
 [project.optional-dependencies]
